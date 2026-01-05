@@ -11,7 +11,7 @@ btn.addEventListener("click", function (e){
     const li = document.createElement("li");
     const span = document.createElement("span");
 
-    span.textContent = input.value;
+    span.textContent = input.value + " ";
 
     let deleteBtn = document.createElement("button");
     deleteBtn.textContent = "Delete";
