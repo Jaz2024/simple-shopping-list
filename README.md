@@ -1,1 +1,1 @@
-# simple-shopping-list
+# simple-shopping-list (NO CSS)
